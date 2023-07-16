@@ -30,31 +30,31 @@ Update是每帧更新，FixedUpdate是固定间隔更新，LateUpdate在Update�
 
 ## 位移
 
-![image-20230716144009418](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# image1.png)
+![](Markdown Image\C#\C# image1.png)
 
 其中对刚体的操作，要放入FixedUpdate
 
 另，Character Controller自带Capsule Collider
 
-![C](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# gif.gif)
+![](Markdown Image\C#\C# gif.gif)
 
 用CharacterController组件做了一个简单的移动
 
 ## 动画：
 
-创建Animator Controller![image-20230716161009702](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# image2.png)
+创建Animator Controller![](Markdown Image\C#\C# image2.png)
 
 在Animator面板中设定各种状态、转换条件
 
-![image-20230716163058884](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# image3.png)
+![](Markdown Image\C#\C# image3.png)
 
 在脚本文件中更改Animator的Parameters来实现控制
 
-![image-20230716161206191](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# image4.png)
+![](Markdown Image\C#\C# image4.png)
 
 ## 预制件：
 
-![image-20230716173259680](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\C#\C# image5.png)
+![](Markdown Image\C#\C# image5.png)
 
 可以通过脚本实例化预制件的方式来动态实例化预制件，实现比如发射子弹的效果
 
