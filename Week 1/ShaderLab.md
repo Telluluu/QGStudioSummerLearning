@@ -149,23 +149,23 @@ SubShader{
 
 在frag函数中用_Color属性来控制输出颜色
 
-![image-20230712111917101](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\ShaderLab image1.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image1.png)
 
-![image-20230712155352643](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\ShaderLab image2.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image2.png)
 
 ## 附.
 
 ### Unity提供的内置文件和变量
 
-![image-20230712155552369](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\ShaderLab image3.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image3.png)
 
-![image-20230712155618979](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\ShaderLab image4.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image4.png)
 
-![image-20230712155653486](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\ShaderLab image5.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image5.png)
 
 ### Unity 提供的CG/HLSL语义
 
-![image-20230712160029629](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\ShaderLab\ShaderLab image6.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image6.png)
 
-![image-20230712160108674](D:\OneDrive\学校\大学\QG工作室图形组\2023训练营\2023暑期训练营\Week 1\Markdown Image\ShaderLab\ShaderLab image7.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderLab/ShaderLab%20image7.png)
 

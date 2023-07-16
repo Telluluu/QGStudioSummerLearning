@@ -28,7 +28,7 @@ ShaderGraph是unity中的可视化着色器构建工具，目前只兼容URP和H
 
 通过multiply节点叠加效果
 
-![image-20230714133113278](Markdown Image\ShaderGraph\ShadeGraph image6.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderGraph/ShadeGraph%20image6.png)
 
 添加了一个白平衡调整，同理还能添加别的效果，比如饱和度
 
@@ -38,7 +38,7 @@ ShaderGraph是unity中的可视化着色器构建工具，目前只兼容URP和H
 
 选中所有节点，右键convert to subgraph可以将将这些节点保存，只保留输入输出，方便复用
 
-![image-20230714134102664](Markdown Image\ShaderGraph\ShaderGraph image7.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderGraph/ShaderGraph%20image7.png)
 
 ## 一些效果：
 
@@ -46,9 +46,9 @@ ShaderGraph是unity中的可视化着色器构建工具，目前只兼容URP和H
 
 只对头发部分进行了边缘光处理
 
-![image-20230714154447368](Markdown Image\ShaderGraph\ShaderGraph image8.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderGraph/ShaderGraph%20image8.png)
 
-![image-20230714154529499](Markdown Image\ShaderGraph\ShadeGraph image9.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderGraph/ShadeGraph%20image9.png)
 
 使用菲涅尔效应，连接至Emission即可
 
@@ -56,7 +56,7 @@ ShaderGraph是unity中的可视化着色器构建工具，目前只兼容URP和H
 
 这里只对身体部分应用了溶解特效
 
-![image-20230714170601419](Markdown Image\ShaderGraph\ShaderGraph image9.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/ShaderGraph/ShaderGraph%20image10.png)
 
 主要思路：
 
