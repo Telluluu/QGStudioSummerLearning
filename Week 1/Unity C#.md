@@ -30,6 +30,8 @@ Update是每帧更新，FixedUpdate是固定间隔更新，LateUpdate在Update�
 
 ## 位移
 
+https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image1.png
+
 ![](Markdown Image\C#\C# image1.png)
 
 其中对刚体的操作，要放入FixedUpdate
