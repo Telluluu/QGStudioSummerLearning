@@ -30,11 +30,7 @@ Update是每帧更新，FixedUpdate是固定间隔更新，LateUpdate在Update�
 
 ## 位移
 
-![image text]https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image1.png
-
-
-
-![](Markdown Image\C#\C# image1.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image1.png)
 
 其中对刚体的操作，要放入FixedUpdate
 
@@ -46,19 +42,19 @@ Update是每帧更新，FixedUpdate是固定间隔更新，LateUpdate在Update�
 
 ## 动画：
 
-创建Animator Controller![](Markdown Image\C#\C# image2.png)
+创建Animator Controller![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image2.png)
 
 在Animator面板中设定各种状态、转换条件
 
-![](Markdown Image\C#\C# image3.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image3.png)
 
 在脚本文件中更改Animator的Parameters来实现控制
 
-![](Markdown Image\C#\C# image4.png)
+这里是一个待机动画![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image4.png)
 
 ## 预制件：
 
-![](Markdown Image\C#\C# image5.png)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image5.png)
 
 可以通过脚本实例化预制件的方式来动态实例化预制件，实现比如发射子弹的效果
 
