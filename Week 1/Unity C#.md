@@ -30,7 +30,9 @@ Update是每帧更新，FixedUpdate是固定间隔更新，LateUpdate在Update�
 
 ## 位移
 
-https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image1.png
+![image text]https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20image1.png
+
+
 
 ![](Markdown Image\C#\C# image1.png)
 
@@ -38,7 +40,7 @@ https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%2
 
 另，Character Controller自带Capsule Collider
 
-![](Markdown Image\C#\C# gif.gif)
+![image text](https://github.com/Telluluu/QGStudioSummerLearning/blob/main/Week%201/Markdown%20Image/C%23/C%23%20gif.gif)
 
 用CharacterController组件做了一个简单的移动
 
